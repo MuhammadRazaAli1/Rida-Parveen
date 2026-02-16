@@ -1,6 +1,6 @@
 # Hi there,👋
 
-I am Rida Parween, a BSCS student at **GCUF** with a passion for uncovering hidden trends in data. I specialize in using **Python** and **SQL** to clean, analyze, and visualize data to help businesses make data-driven decisions.
+I am Rida Parween, a BSCS(8th Semester) student at **GCUF** with a passion for uncovering hidden trends in data. I specialize in using **Python** and **SQL** to clean, analyze, and visualize data to help businesses make data-driven decisions.
 
 ### 🚀 What I do:
 * **Data Cleaning & Preprocessing:** Transforming messy data into usable formats.
